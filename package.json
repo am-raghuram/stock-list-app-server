@@ -1,0 +1,15 @@
+{
+  "name": "expressserverstocklist",
+  "version": "1.0.0",
+  "description": "StockListApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghuram A M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.19.1"
+  }
+}
